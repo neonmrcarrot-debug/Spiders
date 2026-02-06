@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/netherite_chestplate"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2002
+      },
+      "model": "op_addon:item/op_chestplate"
+    }
+  ]
+}

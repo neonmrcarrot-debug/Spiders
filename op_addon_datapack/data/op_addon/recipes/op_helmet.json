@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AGA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:diamond",
+      "nbt": "{CustomModelData:1001,display:{Name:'{\"text\": \"Celestium Gem\", \"color\": \"aqua\", \"italic\": false}',Lore:['{\"text\": \"Forged with the Giant Crafting Table.\", \"color\": \"gray\", \"italic\": false}']}}"
+    },
+    "G": {
+      "item": "minecraft:netherite_helmet"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_helmet",
+    "count": 1,
+    "nbt": "{CustomModelData:2001,display:{Name:'{\"text\": \"OP Helmet\", \"color\": \"light_purple\", \"italic\": false}',Lore:['{\"text\": \"Unbreakable power.\", \"color\": \"gray\", \"italic\": false}']},Enchantments:[{id:\"minecraft:protection\",lvl:10s},{id:\"minecraft:respiration\",lvl:5s},{id:\"minecraft:unbreaking\",lvl:10s}],AttributeModifiers:[{AttributeName:\"minecraft:generic.armor\",Name:\"op_armor\",Amount:12,Operation:0,UUID:[I;11,1,2,3],Slot:\"head\"},{AttributeName:\"minecraft:generic.armor_toughness\",Name:\"op_tough\",Amount:8,Operation:0,UUID:[I;11,1,2,4],Slot:\"head\"},{AttributeName:\"minecraft:generic.max_health\",Name:\"op_health\",Amount:12,Operation:0,UUID:[I;11,1,2,5],Slot:\"head\"}],Unbreakable:1b}"
+  }
+}

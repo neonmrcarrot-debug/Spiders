@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/netherite_ingot"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "op_addon:item/voidsteel_ingot"
+    }
+  ]
+}
