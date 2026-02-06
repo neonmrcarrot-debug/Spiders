@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AGA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gold_ingot",
+      "nbt": "{CustomModelData:1006,display:{Name:'{\"text\": \"Sunsteel Ingot\", \"color\": \"aqua\", \"italic\": false}',Lore:['{\"text\": \"Forged with the Giant Crafting Table.\", \"color\": \"gray\", \"italic\": false}']}}"
+    },
+    "G": {
+      "item": "minecraft:netherite_boots"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_boots",
+    "count": 1,
+    "nbt": "{CustomModelData:2004,display:{Name:'{\"text\": \"OP Boots\", \"color\": \"light_purple\", \"italic\": false}',Lore:['{\"text\": \"Unbreakable power.\", \"color\": \"gray\", \"italic\": false}']},Enchantments:[{id:\"minecraft:protection\",lvl:10s},{id:\"minecraft:feather_falling\",lvl:10s},{id:\"minecraft:soul_speed\",lvl:5s},{id:\"minecraft:unbreaking\",lvl:10s}],AttributeModifiers:[{AttributeName:\"minecraft:generic.armor\",Name:\"op_armor\",Amount:12,Operation:0,UUID:[I;14,1,2,3],Slot:\"feet\"},{AttributeName:\"minecraft:generic.armor_toughness\",Name:\"op_tough\",Amount:8,Operation:0,UUID:[I;14,1,2,4],Slot:\"feet\"},{AttributeName:\"minecraft:generic.max_health\",Name:\"op_health\",Amount:12,Operation:0,UUID:[I;14,1,2,5],Slot:\"feet\"}],Unbreakable:1b}"
+  }
+}

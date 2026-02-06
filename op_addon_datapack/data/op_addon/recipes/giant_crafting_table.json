@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "NCN",
+    "NNN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "C": {
+      "item": "minecraft:crafting_table"
+    }
+  },
+  "result": {
+    "item": "minecraft:crafting_table",
+    "count": 1,
+    "nbt": "{CustomModelData:3001,display:{Name:'{\"text\": \"Giant Crafting Table\", \"color\": \"gold\", \"italic\": false}',Lore:['{\"text\": \"Use this to craft massive custom items.\", \"color\": \"gray\", \"italic\": false}']}}"
+  }
+}
