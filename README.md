@@ -14,6 +14,18 @@ This repository contains a **data pack** and **resource pack** that add:
 4. Enable the resource pack in Minecraft.
 5. Run `/reload` in your world.
 
+### Windows folder paths
+
+- **Datapack folder (per world):**  
+  `%AppData%\\.minecraft\\saves\\<YourWorld>\\datapacks`
+- **Resource pack folder (global):**  
+  `%AppData%\\.minecraft\\resourcepacks`
+
+### Troubleshooting
+
+- If the **Giant Crafting Table** texture is purple/black or missing, run the texture generator again and re-copy the resource pack. The PNGs are not shipped in the repo and must be generated locally. 
+- If you see `<<<<<<<`, `=======`, `>>>>>>>` in `README.md`, you have a **merge conflict**. Remove the conflict markers and keep the Windows paths + troubleshooting text, then save the file.
+
 ## Recipes
 
 ### Giant Crafting Table
