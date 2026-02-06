@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AGA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:netherite_ingot",
+      "nbt": "{CustomModelData:1007,display:{Name:'{\"text\": \"Voidsteel Ingot\", \"color\": \"aqua\", \"italic\": false}',Lore:['{\"text\": \"Forged with the Giant Crafting Table.\", \"color\": \"gray\", \"italic\": false}']}}"
+    },
+    "G": {
+      "item": "minecraft:netherite_leggings"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_leggings",
+    "count": 1,
+    "nbt": "{CustomModelData:2003,display:{Name:'{\"text\": \"OP Leggings\", \"color\": \"light_purple\", \"italic\": false}',Lore:['{\"text\": \"Unbreakable power.\", \"color\": \"gray\", \"italic\": false}']},Enchantments:[{id:\"minecraft:protection\",lvl:10s},{id:\"minecraft:swift_sneak\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:10s}],AttributeModifiers:[{AttributeName:\"minecraft:generic.armor\",Name:\"op_armor\",Amount:12,Operation:0,UUID:[I;13,1,2,3],Slot:\"legs\"},{AttributeName:\"minecraft:generic.armor_toughness\",Name:\"op_tough\",Amount:8,Operation:0,UUID:[I;13,1,2,4],Slot:\"legs\"},{AttributeName:\"minecraft:generic.max_health\",Name:\"op_health\",Amount:12,Operation:0,UUID:[I;13,1,2,5],Slot:\"legs\"}],Unbreakable:1b}"
+  }
+}

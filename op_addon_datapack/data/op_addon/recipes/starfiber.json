@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BGB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:string"
+    },
+    "B": {
+      "item": "minecraft:ghast_tear"
+    },
+    "G": {
+      "item": "minecraft:crafting_table",
+      "nbt": "{CustomModelData:3001,display:{Name:'{\"text\": \"Giant Crafting Table\", \"color\": \"gold\", \"italic\": false}',Lore:['{\"text\": \"Use this to craft massive custom items.\", \"color\": \"gray\", \"italic\": false}']}}"
+    }
+  },
+  "result": {
+    "item": "minecraft:string",
+    "count": 64,
+    "nbt": "{CustomModelData:1012,display:{Name:'{\"text\": \"Starfiber\", \"color\": \"aqua\", \"italic\": false}',Lore:['{\"text\": \"Forged with the Giant Crafting Table.\", \"color\": \"gray\", \"italic\": false}']}}"
+  }
+}
