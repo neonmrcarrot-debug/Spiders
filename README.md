@@ -9,7 +9,6 @@ This repository contains a **data pack** and **resource pack** that add:
 ## Install
 
 1. Run `python scripts/generate_textures.py` to generate the PNG textures.
-   - Keep the `scripts` folder next to the packs in this repo; you do **not** copy it into Minecraft.
 2. Copy `op_addon_datapack` into your world’s `datapacks` folder.
 3. Copy `op_addon_resourcepack` into your Minecraft `resourcepacks` folder.
 4. Enable the resource pack in Minecraft.
